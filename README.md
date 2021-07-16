@@ -13,7 +13,7 @@ Coming soon.
 I am unable to upload them due to:
 - file size limit
 - file count limit
-- bandwidth usage limit (the first two can be overcome by file compressor, but this not)
+- bandwidth usage limit (the first two could be overcome by file compressor, but this not)
 
 So I have decided to explain how to create your executable files by yourself.
 ## Making .exe File Recipe
