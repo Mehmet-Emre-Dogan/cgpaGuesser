@@ -119,9 +119,14 @@ try:
             credit = existingDict["credit"][i]
             flag = True
             if mode == "fromExisting":
-                pref = input(f"--> Saved letter for {course} course is [{lib['guessData'][course]['newletter']}]. Hit enter if you do not want to change.")
-                if pref == "":
-                    flag = False      
+                while True:
+                    pref = input(f"--> Saved letter for {course} course is [{lib['guessData'][course]['newletter']}]. Hit enter if you do not want to change. Type 'e' to edit. --> ")
+                    if pref == "":
+                        flag = False
+                        break
+                    elif pref == "e":
+                        flag = True
+                        break   
             if flag:
                 letter = inputLetter(course, "new")
                 oldLetter = inputLetter(course, "old")
