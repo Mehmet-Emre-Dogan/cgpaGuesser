@@ -9,5 +9,8 @@ It scrapes data from your transcript. However, not all school's transcripts are 
 - Run app.
 ## Manual Edition
 Coming soon.
-## Clarification about .exe file
-Microsoft Defender says that file is malicious. You can read this topic explaining why that happens: https://stackoverflow.com/questions/65554464/why-is-my-pyinstaller-exe-file-marked-as-a-virus Moreover, you do not have to use the .exe file. Always you can compile your executable file from the source code (.py file) or run the .py file directly.
+## Clarification about .exe files
+I am unable to upload them due to:
+- file size limit
+- file count limit
+- bandwidth usage limit (the first two can be overcome by file compressor, but this not)
