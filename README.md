@@ -1,4 +1,4 @@
-# gpaGuesser
+# cgpaGuesser
 Guess your prospective CGPA.
 ## Automated Edition
 It scrapes data from your transcript. However, not all school's transcripts are compatible. If you encounter problems, switch to the Manual Edition.
