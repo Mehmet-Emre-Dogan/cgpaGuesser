@@ -22,7 +22,7 @@ Assuming you already have the pyinstaller library, install the libraries in the 
 - for onefile (it may cause an upload filesize limit  problem) use this command
 pyinstaller --exclude-module PyQt5 --onefile "cgpaGuesser - Automated Edition.py" --add-data "C:\Users\yourUserName\AppData\Local\Programs\Python\Python39\Lib\site-packages\tabula\tabula-1.0.4-jar-with-dependencies.jar;tabula" 
 
-- or multiple files (it looks messy and may cause file count limit problem while uploading to somewhere) use this command
+- for multiple files (it looks messy and may cause file count limit problem while uploading to somewhere) use this command
 pyinstaller --exclude-module PyQt5 "cgpaGuesser - Automated Edition.py" --add-data "C:\Users\yourUserName\AppData\Local\Programs\Python\Python39\Lib\site-packages\tabula\tabula-1.0.4-jar-with-dependencies.jar;tabula" 
 
 Note 1: Make sure you have adjusted "\yourUserName" parts. Moreover, the path of 'tabula-1.0.4-jar-with-dependencies.jar' may be different in your system, so change it accordingly.
