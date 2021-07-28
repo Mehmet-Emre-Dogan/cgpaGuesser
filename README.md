@@ -16,7 +16,7 @@ I am unable to upload them due to:
 - bandwidth usage limit (the first two could be overcome by file compressor, but this not)
 
 So I have decided to explain how to create your executable files by yourself.
-## Making .exe File Recipe
+## Making .exe File Recipe (For Automated Edition)
 Assuming you already have the pyinstaller library, install the libraries in the 'requirements.txt'.
 
 - For onefile (it may cause an upload filesize limit  problem) use this command
