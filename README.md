@@ -9,7 +9,7 @@ It scrapes data from your transcript. However, not all school's transcripts are 
 - Run app.
 ## Manual Edition
 Coming soon.
-## Clarification about .exe files
+## Clarification about .exe files (For Automated Edition)
 I am unable to upload them due to:
 - file size limit
 - file count limit
