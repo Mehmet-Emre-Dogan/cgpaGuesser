@@ -8,7 +8,8 @@ It scrapes data from your transcript. However, not all school's transcripts are 
 - Move it to the directory containing the app.
 - Run app.
 ## Manual Edition
-Coming soon.
+Since it deserves a new repository, I have created a brand new repository for it. Please see it from [there](https://github.com/Mehmet-Emre-Dogan/cgpaGuesser-Gui).
+
 ## Clarification about .exe files (For Automated Edition)
 I am unable to upload them due to:
 - file size limit
